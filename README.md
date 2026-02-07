@@ -12,3 +12,5 @@
 6. A Java program that calculates and displays the grade of a student based on marks entered by the user using an else-if ladder statement.
 
 7. A java program to display the dayName using a Switch case.
+
+8. A java program to print numbers from 1 to 5 using "For"-loop.
