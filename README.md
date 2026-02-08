@@ -14,3 +14,5 @@
 7. A java program to display the dayName using a Switch case.
 
 8. A java program to print numbers from 1 to 5 using "For"-loop.
+
+9. A java program to print numbers from 1 to 5 using "While"-loop.
