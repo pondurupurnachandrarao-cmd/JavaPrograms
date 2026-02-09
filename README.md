@@ -16,3 +16,5 @@
 8. A java program to print numbers from 1 to 5 using "For"-loop.
 
 9. A java program to print numbers from 1 to 5 using "While"-loop.
+
+10. A java program to print numbers from 1 to 5 using "Do-While"-loop.
