@@ -22,3 +22,5 @@
 11. A java program that prompts the user to enter an integer and prints all prime numbers up to that number.
 
 12. A java program to generate the fibonacci sequence, where the first two values are 1 and 1, and each subsequent value is the sum of the preceeding two values.
+
+13. A java program to find the factorial of a given number.
