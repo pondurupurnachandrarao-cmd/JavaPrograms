@@ -24,3 +24,5 @@
 12. A java program to generate the fibonacci sequence, where the first two values are 1 and 1, and each subsequent value is the sum of the preceeding two values.
 
 13. A java program to find the factorial of a given number.
+
+14. A Java program to calculate the area and perimeter of a rectangle using a class.
