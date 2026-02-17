@@ -28,3 +28,6 @@
 14. A Java program to calculate the area and perimeter of a rectangle using a class.
 
 15.  A java program using student class with data members name and age, and methods to read and disolay the student details using an object.
+
+16.  A java program to show how the local variables work.
+
