@@ -31,5 +31,7 @@
 
 16.  A java program to show how the local variables work.
 
-17.    A java program to show how the Instance variables work.
+17.  A java program to show how the Instance variables work.
+
+18.  A java program to show how the Static variables work.
 
