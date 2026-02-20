@@ -35,3 +35,5 @@
 
 18.  A java program to show how the Static variables work.
 
+19.  Write a Java program to demonstrate a one-dimensional array by reading five integer elements from the user and displaying them.
+
