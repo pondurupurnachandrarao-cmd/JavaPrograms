@@ -37,5 +37,7 @@
 
 19.  Write a Java program to demonstrate a one-dimensional array by reading five integer elements from the user and displaying them.
 
-20.  A java program that demonstrates the default constructor.
+20.  A java program that demonstrates the Default constructor.
+
+21.  A java program that demonstrates the Parameterized constructor.
 
