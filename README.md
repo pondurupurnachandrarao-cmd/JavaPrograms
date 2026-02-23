@@ -41,3 +41,5 @@
 
 21.  A java program that demonstrates the Parameterized constructor.
 
+22.  Write a Java program to implement factorial of a given number using both recursive and non-recursive (iterative) methods.
+
