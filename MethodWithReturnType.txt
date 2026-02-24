@@ -1,0 +1,12 @@
+class MethodWithReturnType
+{
+	int square(int n)
+	{
+	return n*n;
+	}
+	public static void main(String args[])
+	{
+	MethodWithReturnType obj=new MethodWithReturnType();
+	System.out.println(" "+obj.square(3));
+	}
+}
