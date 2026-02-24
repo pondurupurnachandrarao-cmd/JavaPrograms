@@ -43,3 +43,4 @@
 
 22.  Write a Java program to implement factorial of a given number using both recursive and non-recursive (iterative) methods.
 
+23.  A java Program for Method With Return Type.
