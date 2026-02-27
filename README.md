@@ -46,3 +46,5 @@
 23.  A java Program for Method With Return Type.
 
 24.   Write a Java program to demonstrate a method without return type that calculates and prints the square of a number.
+
+25.   Write a Java program to demonstrate a method with parameters that displays a given name.
