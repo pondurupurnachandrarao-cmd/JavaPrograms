@@ -48,3 +48,6 @@
 24.   Write a Java program to demonstrate a method without return type that calculates and prints the square of a number.
 
 25.   Write a Java program to demonstrate a method with parameters that displays a given name.
+
+26.   Write a Java program to demonstrate a method without parameters that displays a name.
+
