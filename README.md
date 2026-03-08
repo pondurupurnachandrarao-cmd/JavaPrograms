@@ -58,3 +58,5 @@
 29. Write a Java program to demonstrate the use of the final keyword by declaring a final variable and printing its value.
 
 30. Write a Java program to reference the current class instance variable using the this keyword.
+
+31. Write a Java program to demonstrate calling a current class method from another method in the same class.
