@@ -62,3 +62,5 @@
 31. Write a Java program to demonstrate calling a current class method from another method in the same class.
 
 32. Write a Java program to demonstrate calling another constructor of the same class using this().
+
+33. Write a Java program to demonstrate passing the current object as a parameter to a method.
